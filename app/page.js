@@ -32,6 +32,14 @@ export default function Home() {
           <p>Balance des transfert : </p>
           <p>{chelseaClubData.currentTransferRecord}</p>
         </div>
+        <div>
+          <p>Taille de l'effectif : </p>
+          <p>{chelseaClubData.squad.size}</p>
+        </div>
+        <div>
+          <p>Age moyen des joueurs : </p>
+          <p>{chelseaClubData.squad.averageAge} ans</p>
+        </div>
       </div>
     </main>
   );
