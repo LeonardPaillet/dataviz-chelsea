@@ -44,3 +44,86 @@ export default function Home() {
     </main>
   );
 }
+
+const CLUB_BDD = [
+  {
+    "id": "281",
+    "name": "Manchester City"
+  },
+  {
+    "id": "11",
+    "name": "Arsenal FC"
+  },
+  {
+    "id": "631",
+    "name": "Chelsea FC"
+  },
+  {
+    "id": "31",
+    "name": "Liverpool FC"
+  },
+  {
+    "id": "148",
+    "name": "Tottenham Hotspur"
+  },
+  {
+    "id": "985",
+    "name": "Manchester United"
+  },
+  {
+    "id": "405",
+    "name": "Aston Villa"
+  },
+  {
+    "id": "762",
+    "name": "Newcastle United"
+  },
+  {
+    "id": "1237",
+    "name": "Brighton & Hove Albion"
+  },
+  {
+    "id": "379",
+    "name": "West Ham United"
+  },
+  {
+    "id": "1148",
+    "name": "Brentford FC"
+  },
+  {
+    "id": "873",
+    "name": "Crystal Palace"
+  },
+  {
+    "id": "703",
+    "name": "Nottingham Forest"
+  },
+  {
+    "id": "989",
+    "name": "AFC Bournemouth"
+  },
+  {
+    "id": "29",
+    "name": "Everton FC"
+  },
+  {
+    "id": "543",
+    "name": "Wolverhampton Wanderers"
+  },
+  {
+    "id": "931",
+    "name": "Fulham FC"
+  },
+  {
+    "id": "1132",
+    "name": "Burnley FC"
+  },
+  {
+    "id": "350",
+    "name": "Sheffield United"
+  },
+  {
+    "id": "1031",
+    "name": "Luton Town"
+  }
+]
